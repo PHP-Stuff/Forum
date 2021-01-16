@@ -3,5 +3,5 @@
 ```sh
 git clone https://github.com/PHP-Stuff/Forum.git
 cd Forum
-./setup.sh
+./start.sh
 ```
